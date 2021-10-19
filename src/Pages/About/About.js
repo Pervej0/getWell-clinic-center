@@ -8,7 +8,7 @@ import "./About.css";
 const About = () => {
   const [blogs] = useBlog();
   const [ourFaces] = useFace();
-  console.log(ourFaces);
+
   return (
     <>
       <section>

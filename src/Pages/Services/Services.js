@@ -6,7 +6,7 @@ import "./Services.css";
 
 const Services = () => {
   const [services] = useService();
-  console.log(services);
+
   return (
     <>
       <section>

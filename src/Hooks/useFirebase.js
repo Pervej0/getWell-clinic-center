@@ -88,7 +88,6 @@ const useFirebase = () => {
 
   // user manually sign in-
   const manuallySignIn = (email, password, from, history) => {
-    console.log("sign in start", email, password);
     setIsloading(true);
     signInWithEmailAndPassword(auth, email, password)
       .then((result) => {

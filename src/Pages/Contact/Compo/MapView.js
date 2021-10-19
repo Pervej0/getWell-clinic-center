@@ -8,7 +8,7 @@ const MapView = () => {
         width="100%"
         height="450"
         style={{ border: 0 }}
-        allowfullscreen=""
+        allowFullScreen=""
         loading="lazy"
       ></iframe>
     </section>
