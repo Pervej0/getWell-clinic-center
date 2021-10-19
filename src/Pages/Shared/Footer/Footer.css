@@ -2,4 +2,10 @@
 .information li {
   cursor: pointer;
   line-height: 30px;
+  transition: 0.4s all ease;
+}
+
+.helpfulLinks li:hover,
+.information li:hover {
+  text-decoration: underline;
 }

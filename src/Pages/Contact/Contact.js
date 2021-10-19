@@ -11,7 +11,7 @@ const Contact = () => {
           <h1 className="text-3xl text-white font-serif">Contact Us</h1>
         </div>
       </section>
-      <section className="md:px-14 p-4 mb-12">
+      <section className="md:px-14 p-4 mb-0 md:mb-12">
         <div className="title text-center my-14">
           <h2 className="text-3xl mb-2 font-semibold font-serif">Catch US</h2>
           <hr className="w-56 mx-auto border-black" />
