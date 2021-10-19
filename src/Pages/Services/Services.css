@@ -1,0 +1,41 @@
+.service-banner {
+  min-height: 50vh;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("../../Images/pageBanner/service.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.service-item .service-img {
+  overflow: hidden;
+  position: relative;
+}
+
+.service-item .service-img img {
+  transform: scale(1);
+  transition: 0.4s all ease;
+}
+
+.service-item .service-img::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+  height: 0;
+  width: 0;
+  transition: 0.5s all ease;
+}
+
+.service-item .service-img:hover::after {
+  background-color: rgba(36, 48, 163, 0.7);
+  height: 100%;
+  width: 100%;
+}
+
+.service-item .service-img:hover img {
+  transform: scale(1.2);
+}

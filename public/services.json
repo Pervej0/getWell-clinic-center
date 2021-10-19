@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "title": "Fitnes Advice",
+    "description": "Regular exercise is one of the best things you can do for your health. It has many benefits, including improving your overall health and fitness, and reducing your risk for many chronic diseases. There are many different types of exercise; it is important that you pick the right types for you. Most people benefit from a combination of them:",
+    "img": "https://i.ibb.co/Q8b0tQW/Healthy-lifestyle-concepts-red-heart-shape-plate-with-fresh-organic-fruits-and-vegetables-shot-on-wh.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Efficient Pharmaccy Operation",
+    "description": "Develop minimum and maximum reorder points on prescription medications. Train buyers on inventory controls like updating min/max levels to avoid stock delays. Obtain all credits from returned excess products. Create advanced inventory control system that adjusts drug levels based on patient demand.When pharmacies focus on efficiency, the result is often a greater level of patient satisfaction, which can not only make for a better operational process but also better performance metric ratings.",
+    "img": "https://i.ibb.co/5W6mDLb/Shot-of-a-young-woman-doing-inventory-in-a-pharmacy-on-a-digital-tablet-with-her-colleague-in-the-ba.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Gray Gatch Bed in Hospital",
+    "time": 2.5,
+    "description": "A hospital bed or hospital cot is a bed specially designed for hospitalized patients or others in need of some form of health care. These beds have special features both for the comfort and well-being of the patient and for the convenience of health care workers. It is impossible to imagine a medical facility without hospital beds. There are myriad of hospital beds available in the market and you got to choose the type that best suits your needs. There are electric, semi-electric and fully-electric hospital beds available in the market. And that’s not it! There are plenty of other bed types manufactured by hospital bed suppliers in India. If you segregate these bed types on the basis of care and function, you will see how versatile these bed types are. Let’s take a look at those bed types in detail.",
+    "img": "https://i.ibb.co/NCZ7tk8/service4.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Modern Labortary",
+    "time": 2.5,
+    "description": "Medical laboratory science provides clues that are key in the diagnosis and treatment of disease or injury, and laboratory professionals are the detectives of the health care world. They provide clues that are key in the diagnosis and treatment of disease or injury and assist in the maintenance of healthy lifestyles. Laboratory accreditation benefits laboratories by allowing them to determine whether they are performing their work correctly and to appropriate standards, and provides them with a benchmark for maintaining that competence.",
+    "img": "https://i.ibb.co/K2Pk01s/service3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Home Caregiver",
+    "time": 8,
+    "description": "What is In-Home Care? In-home caregivers provide assistance with activities of daily living (ADL) such as meal preparation, dressing, grooming, medication monitoring, transportation and light housekeeping. ... There are some long-term care insurance policies that cover non-medical in-home care services.",
+    "img": "https://i.ibb.co/tLS7ddP/Home-caregiver-helping-a-senior-man-standing-up-at-home.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Hotline Facilities",
+    "time": 0.1,
+    "description": "Since 2007, getWellc.c. has operated the U.S. National Human Trafficking Hotline, which provides 24/7 support and a variety of options for survivors of human trafficking to get connected to help and stay safe. Through a network of nearly 4,000 partner service providers, trained hotline advocates take tips of suspected human trafficking from community members and help survivors build plans so they can safely leave their situations or get the help they need to rebuild their lives.",
+    "img": "https://i.ibb.co/TMdSVRn/service6.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Ambulence Transportation",
+    "description": "A. Medicare will pay for ambulance services under specific circumstances, and it’s important to know what these are to avoid hefty bills. When emergencies arise, or when preexisting medical conditions make traditional transportation unsafe, the safest way to get to a hospital or care facility is often via ambulance. The good news is that Medicare will pay for ambulance services when the situation warrants it.",
+    "img": "https://i.ibb.co/10d8Nfp/photo-1587745416684-47953f16f02f-ixid-Mnwx-Mj-A3f-DB8-MHxz-ZWFy-Y2h8-NXx8-YW1id-Wxhbm-Nl-JTIwc2-Vydm.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Counseling Face to Face",
+    "description": "Professional therapy and counseling can improve your mental wellness. This therapy can help people who are experiencing emotional or behavioral problems. Also, it can help people who have a mental health disorder. Therapy is sometimes called psychotherapy or talk therapy. Many times, therapy is used in combination with prescription medicine to treat a mental health disorder. Therapy will usually improve the results you get from the medicine. There are different types of mental health providers. Professionals trained in psychotherapy include those representing psychiatry, clinical psychology, mental health counseling, clinical social work, marriage and family therapy, rehabilitation counseling, and psychoanalysis. Fee structures and access to prescriptions is different for each.",
+    "img": "https://i.ibb.co/3rjF5kG/photo-1536064479547-7ee40b74b807-ixlib-rb-1-2.jpg"
+  }
+]

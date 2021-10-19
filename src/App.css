@@ -1,0 +1,13 @@
+.my-btn {
+  padding: 8px 18px;
+  background-color: #4182f6;
+  color: #ffffff;
+  transition: 0.5s all ease;
+  border: 2px solid #4182f6;
+}
+
+.my-btn:hover {
+  background-color: transparent;
+  color: black;
+  border: 2px solid #000;
+}

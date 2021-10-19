@@ -1,0 +1,5 @@
+.helpfulLinks li,
+.information li {
+  cursor: pointer;
+  line-height: 30px;
+}

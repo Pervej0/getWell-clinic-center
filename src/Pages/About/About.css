@@ -1,0 +1,34 @@
+.icon-field {
+  margin: 10px 0px;
+}
+
+.icon-field i {
+  display: inline-block;
+  padding: 10px 12px;
+  margin: 0px 6px;
+  font-size: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: 0.4s all ease;
+}
+
+.icon-field i:hover {
+  background-color: rgb(15, 112, 240);
+  border: 1px solid rgba(15, 112, 240, 0.3);
+  color: #fff;
+}
+
+.face-item .face-img {
+  overflow: hidden;
+  position: relative;
+}
+
+.face-item .face-img img {
+  transform: scale(1);
+  transition: 0.4s all ease;
+}
+
+.face-item .face-img:hover img {
+  transform: scale(1.2);
+  filter: grayscale(100%);
+}
